@@ -1,0 +1,24 @@
+Package: dynatopData
+Title: GIS data for dynatopGIS examples
+Version: 0.1
+Authors@R: 
+    person(given = "Paul",
+           family = "Smith",
+           role = c("aut", "cre"),
+           email = "paul@waternumbers.co.uk",
+           comment = c(ORCID = "0000-0002-0034-3412"))
+Description: This package contains data used in the dynatopGIS examples.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+Depends:
+	R (>= 3.1)
+BugReports: https://github.com/waternumbers/dynatopData/issues
+URL: https://waternumbers.github.io/dynatopData/, https://github.com/waternumbers/dynatopData
+RoxygenNote: 7.1.0
+Suggests: 
+    knitr,
+    rmarkdown,
+    pkgdown
+VignetteBuilder: knitr

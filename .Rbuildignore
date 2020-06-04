@@ -1,0 +1,9 @@
+^docs$
+^cran-comments\.md$ # Comments for CRAN submission
+^vignette_data
+^old_files
+^\.travis\.yml$
+^appveyor\.yml$
+make_dynatopData.R
+^\.git$
+^\.gitignore$
