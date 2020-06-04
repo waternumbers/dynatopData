@@ -1,6 +1,6 @@
 Package: dynatopData
 Title: GIS data for dynatopGIS examples
-Version: 0.1
+Version: 0.0.1
 Authors@R: 
     person(given = "Paul",
            family = "Smith",
