@@ -2,9 +2,9 @@
 
 <!-- badges: start -->
   [![Travis build
-  status](https://travis-ci.org/waternumbers/dynatopGIS.svg?branch=master)](https://travis-ci.org/waternumbers/dynatopGIS)
-  [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/waternumbers/dynatopGIS?branch=master&svg=true)](https://ci.appveyor.com/project/waternumbers/dynatopGIS)
-[![Coveralls test coverage](https://coveralls.io/repos/github/waternumbers/dynatop_gis/badge.svg)](https://coveralls.io/r/waternumbers/dynatop_gis?branch=master)
+  status](https://travis-ci.org/waternumbers/dynatopData.svg?branch=master)](https://travis-ci.org/waternumbers/dynatopData)
+  [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/waternumbers/dynatopData?branch=master&svg=true)](https://ci.appveyor.com/project/waternumbers/dynatopData)
+  [![Coverage Status](https://coveralls.io/repos/github/waternumbers/dynatopData/badge.svg?branch=master)](https://coveralls.io/github/waternumbers/dynatopData?branch=master)
 <!-- badges: end -->
 
 This R package contains the example data used in the [dynatopGIS](https://waternumbers.github.io/dynatopGIS) package example and vignettes.

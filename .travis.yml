@@ -2,8 +2,6 @@
 language: r
 r:
   - release
-apt_packages:
-  - libgdal-dev
 cache: packages
 warnings_are_errors: true
 os:
